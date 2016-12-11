@@ -24,20 +24,26 @@ for (var i = 0; i < elements.length; i++) {
                         return 'Denali';
 
                     case 'Mount Rainier':
-                        return 'Tacoma';
+                        return 'Tahoma';
 
                     case 'Mount Everest':
                         return 'Chomolungma';
 
                     case 'Mount Baker':
                         return 'Kulshan';
-/*
-                    case 'Mount Shasta'
+
+                    case 'Mount Shasta':
                         return 'Uytaahkoo';
 
-                    case 'Devils Tower'
-                        return 'Bear Lodge';
-*/
+                    case 'Devil\'s Tower':
+                        return 'Bear\'s House';
+
+                    case 'Harney Peak':
+                        return 'Hinhan Kaga';
+
+                    case 'Mount Washington':
+                        return 'Agiocochook';
+
                 }
             });
 
